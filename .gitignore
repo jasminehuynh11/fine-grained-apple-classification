@@ -1,0 +1,96 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyTorch
+*.pth
+*.pt
+*.pkl
+*.ckpt
+# Keep model checkpoints that are part of the project
+!models/*.pth
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ROS2
+install/
+build/
+log/
+.ros/
+*.pyc
+
+# Data files (large datasets should not be committed)
+data/
+datasets/
+*.csv
+*.h5
+*.hdf5
+
+# Logs and temporary files
+*.log
+*.tmp
+tmp/
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Media files (optional - uncomment if you want to exclude large video files)
+# *.mp4
+# *.avi
+# *.mov
+
+# Model outputs and experiments
+experiments/
+outputs/
+results/
+checkpoints/
+
+# Documentation builds
+docs/_build/
+site/
+
+# Colab
+.drive/
+
