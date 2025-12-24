@@ -224,7 +224,12 @@ This project is part of an academic coursework (COMP8430: Advanced Computer Visi
 
 ## Contributors
 
-Group project for COMP8430 - Advanced Computer Vision and Action
+This project was developed as part of COMP8430 - Advanced Computer Vision and Action:
+
+- **Jasmine Huynh** - [@jasminehuynh11](https://github.com/jasminehuynh11)
+- **Prakhar Mishra** - [@prakharMishra2325](https://github.com/prakharMishra2325)
+- **Taha Naveed Shibli** - [@taha-naveed](https://github.com/taha-naveed)
+- **Gary Tze Hay Lau**
 
 ---
 
