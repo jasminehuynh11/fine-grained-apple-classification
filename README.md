@@ -229,7 +229,7 @@ This project was developed as part of COMP8430 - Advanced Computer Vision and Ac
 - **Jasmine Huynh** - [@jasminehuynh11](https://github.com/jasminehuynh11)
 - **Prakhar Mishra** - [@prakharMishra2325](https://github.com/prakharMishra2325)
 - **Taha Naveed Shibli** - [@taha-naveed](https://github.com/taha-naveed)
-- **Gary Tze Hay Lau**
+- **Gary Tze Hay Lau** - [@garylau1](https://github.com/garylau1)
 
 ---
 
